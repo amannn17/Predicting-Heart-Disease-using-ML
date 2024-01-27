@@ -1,0 +1,3 @@
+This notebook is an attempt to build a machine-learning model capable of predicting whether or not someone has heart disease based on their medical attributes. It explores various python based ML & Data Science libraries.
+The original data came from the Cleveland data from the UCI Machine Learning Repository. (https://archive.ics.uci.edu/dataset/45/heart+disease) There is also a version of it available on Kaggle (https://www.kaggle.com/datasets/ritwikb3/heart-disease-cleveland).
+The dataset consists of 303 individuals’ data. There are 14 columns in the dataset(which have been extracted from a larger set of 75). No missing values. The classification task is to predict whether an individual is suffering from heart disease or not.
